@@ -219,4 +219,4 @@ MIT License
 
 ## 💡 Inspiration
 
-MedTriage aims to provide a smart, scalable, and AI-driven solution to assist in emergency healthcare triage and decision-making.
+MedTriage aims to provide a smart, scalable, and AI-driven solution to assist in emergency healthcare triage and decision-making. 
